@@ -36,7 +36,10 @@ Space:
 | # | Problem | Difficulty | Topics | Python | Notes |
 |---|---------|------------|--------|--------|-------|
 | 1 | Two Sum | Easy | Array, Hash Table | ✓ | |
+| 49 | Group Anagrams | Medium | Array, Hash Table, String, Sorting | ✓ | |
 | 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | ✓ | |
+| 242 | Valid Anagram | Easy | Hash Table, String, Sorting | ✓ | |
+| 347 | Top K Frequent Elements | Medium | Array, Hash Table, Sorting, Heap, Bucket Sort, Counting | ✓ | |
 
 ## Workflow
 

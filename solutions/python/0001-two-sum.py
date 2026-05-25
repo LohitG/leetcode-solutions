@@ -8,14 +8,16 @@ Space: O(n)
 """
 
 
+from typing import List
+
+
 class Solution:
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
-        seen: dict[int, int] = {}
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        from collections import defaultdict
 
-        for index, num in enumerate(nums):
-            complement = target - num
-            if complement in seen:
-                return [seen[complement], index]
-            seen[num] = index
-
-        return []
+        d = defaultdict(int)
+        for i in range(len(nums)):
+            if (target - nums[i]) in d:
+                return [i, d[target - nums[i]]]
+            d[nums[i]] = i
+        return
