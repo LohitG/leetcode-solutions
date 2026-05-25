@@ -7,8 +7,7 @@ A personal repository for tracking LeetCode solutions, notes, patterns, and prog
 ```text
 .
 ├── solutions/
-│   ├── python/
-│   └── javascript/
+│   └── python/
 ├── templates/
 └── notes/
 ```
@@ -19,7 +18,6 @@ Use this format for solution files:
 
 ```text
 0001-two-sum.py
-0001-two-sum.js
 ```
 
 Recommended file header:
@@ -35,10 +33,10 @@ Space:
 
 ## Progress
 
-| # | Problem | Difficulty | Topics | Python | JavaScript | Notes |
-|---|---------|------------|--------|--------|------------|-------|
-| 1 | Two Sum | Easy | Array, Hash Table | ☐ | ☐ | |
-| 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | ✓ | ✓ | |
+| # | Problem | Difficulty | Topics | Python | Notes |
+|---|---------|------------|--------|--------|-------|
+| 1 | Two Sum | Easy | Array, Hash Table | ✓ | |
+| 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | ✓ | |
 
 ## Workflow
 
