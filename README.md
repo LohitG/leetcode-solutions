@@ -38,6 +38,7 @@ Space:
 | # | Problem | Difficulty | Topics | Python | JavaScript | Notes |
 |---|---------|------------|--------|--------|------------|-------|
 | 1 | Two Sum | Easy | Array, Hash Table | ☐ | ☐ | |
+| 217 | Contains Duplicate | Easy | Array, Hash Table, Sorting | ✓ | ✓ | |
 
 ## Workflow
 
