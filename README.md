@@ -43,6 +43,8 @@ Space:
 | 121 | [Best Time to Buy and Sell Stock](solutions/python/0121-best-time-to-buy-and-sell-stock.py) | Easy | Array, Dynamic Programming | ✓ | |
 | 125 | [Valid Palindrome](solutions/python/0125-valid-palindrome.py) | Easy | Two Pointers, String | ✓ | |
 | 128 | [Longest Consecutive Sequence](solutions/python/0128-longest-consecutive-sequence.py) | Medium | Array, Hash Table, Union Find | ✓ | |
+| 141 | [Linked List Cycle](solutions/python/0141-linked-list-cycle.py) | Easy | Hash Table, Linked List, Two Pointers | ✓ | |
+| 206 | [Reverse Linked List](solutions/python/0206-reverse-linked-list.py) | Easy | Linked List, Recursion | ✓ | |
 | 217 | [Contains Duplicate](solutions/python/0217-contains-duplicate.py) | Easy | Array, Hash Table, Sorting | ✓ | |
 | 238 | [Product of Array Except Self](solutions/python/0238-product-of-array-except-self.py) | Medium | Array, Prefix Sum | ✓ | |
 | 242 | [Valid Anagram](solutions/python/0242-valid-anagram.py) | Easy | Hash Table, String, Sorting | ✓ | |
